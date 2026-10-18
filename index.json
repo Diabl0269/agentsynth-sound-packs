@@ -59,6 +59,25 @@
           "category": "Drums"
         }
       ]
+    },
+    {
+      "id": "animals",
+      "name": "Animals",
+      "version": "1.0.0",
+      "url": "https://github.com/Diabl0269/agentsynth-sound-packs/releases/download/animals-1.0.0/animals.zip",
+      "sha256": "f26d21b9948e15f267d6e9c1dc676f047c4527475f5da3d507889e723b5114e7",
+      "downloadBytes": 295963,
+      "installedBytes": 365160,
+      "licence": "CC0 1.0 (public domain)",
+      "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "credit": "Humpback whale recorded by the US National Park Service in Glacier Bay, Alaska (public domain); crow by Mish7913, great horned owl by felix.blume, tree frog by kvgarlic and wolf by betchkal on Freesound (CC0); each cut to one call, cleaned of background noise and compressed for AgentSynth.",
+      "instruments": [
+        { "id": "whale", "name": "Whale call", "category": "Animals" },
+        { "id": "crow", "name": "Crow caw", "category": "Animals" },
+        { "id": "owl", "name": "Owl hoot", "category": "Animals" },
+        { "id": "frog", "name": "Frog call", "category": "Animals" },
+        { "id": "wolf", "name": "Wolf howl", "category": "Animals" }
+      ]
     }
   ]
 }
