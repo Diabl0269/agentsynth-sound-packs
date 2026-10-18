@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "packs": [
+    {
+      "id": "core",
+      "name": "Core instruments",
+      "version": "1.0.0",
+      "url": "https://github.com/Diabl0269/agentsynth-sound-packs/releases/download/core-1.0.0/core.zip",
+      "sha256": "211f6314ea43182aae8351948d98486696b065c9f7f87c283c8534ca40f47a55",
+      "downloadBytes": 32548439,
+      "installedBytes": 35913032,
+      "licence": "CC0 1.0 (public domain)",
+      "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "credit": "Recordings from VSCO 2 Community Edition (Versilian Studios; upright piano by Simon Dalzell of Ivy Audio), Virtuosity Drums (Versilian Studios; drummer Austin McMahon, recorded at Virtuosity Musical Instruments), and Black and Green Guitars (Karoryfer Samples; recorded by Brian Wood) - all public domain (CC0); trimmed and compressed for AgentSynth.",
+      "instruments": [
+        {
+          "id": "upright-piano",
+          "name": "Upright piano",
+          "category": "Keys"
+        },
+        {
+          "id": "string-section",
+          "name": "String section",
+          "category": "Strings"
+        },
+        {
+          "id": "trumpet",
+          "name": "Trumpet",
+          "category": "Brass"
+        },
+        {
+          "id": "french-horn",
+          "name": "French horn",
+          "category": "Brass"
+        },
+        {
+          "id": "flute",
+          "name": "Flute",
+          "category": "Woodwinds"
+        },
+        {
+          "id": "clarinet",
+          "name": "Clarinet",
+          "category": "Woodwinds"
+        },
+        {
+          "id": "double-bass-plucked",
+          "name": "Plucked double bass",
+          "category": "Bass"
+        },
+        {
+          "id": "electric-guitar",
+          "name": "Electric guitar",
+          "category": "Guitar"
+        },
+        {
+          "id": "acoustic-kit",
+          "name": "Acoustic drum kit",
+          "category": "Drums"
+        }
+      ]
+    }
+  ]
+}
